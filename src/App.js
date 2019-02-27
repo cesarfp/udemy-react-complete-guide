@@ -58,7 +58,7 @@ class App extends Component {
 			backgroundColor:'lightgreen',
 			color:'black'
 		}
-    };
+  };
 
     let persons = null;
 
