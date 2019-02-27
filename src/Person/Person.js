@@ -1,8 +1,9 @@
 import React from 'react';
-import classes from './Person.css'
+
+import classes from './Person.css';
 
 
-const person = (props) => {
+const person = ( props ) => {
     
     return (
         <div className={classes.Person}>
